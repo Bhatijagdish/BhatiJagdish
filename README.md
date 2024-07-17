@@ -29,7 +29,6 @@ Let's connect and build the future together! 🌟
     
     [![Linkedin: Jagdish Singh Bhati](https://img.shields.io/badge/Jagdish-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jsbhati)
 
-    [![](https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/jsbhati)
 
 
 ---
